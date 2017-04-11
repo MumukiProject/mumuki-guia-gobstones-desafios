@@ -1,0 +1,1 @@
+¡No te olvides de sacar la tierra cuando aparece la planta!

@@ -7,7 +7,7 @@ examples:
      head 0 0
    final_board: |
      GBB/1.0
-     size 1 1 n
+     size 1 1
      head 0 0
  - initial_board: |
      GBB/1.0

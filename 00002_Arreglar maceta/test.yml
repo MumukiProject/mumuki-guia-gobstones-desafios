@@ -29,6 +29,7 @@ examples:
      GBB/1.0
      size 1 1 
      cell 0 0 Verde 3 
+     cell 0 0 Rojo 2 
      head 0 0
  - initial_board: |
      GBB/1.0
@@ -39,4 +40,5 @@ examples:
      GBB/1.0
      size 1 1 
      cell 0 0 Verde 1
+     cell 0 0 Rojo 2                
      head 0 0
