@@ -1,4 +1,4 @@
-_Los tíos se fueron de vacaciones y nos dejaron a nuestro cargo su balcón. Aunque parece una tarea fácil no lo es, ya que sus pobres plantas están un poco descuidadas._ 
+_Los tíos se fueron de vacaciones y nos dejaron a cargo su balcón. Aunque parece una tarea fácil no lo es, ya que sus pobres plantas están un poco descuidadas._ 
 
 Empecemos por regar una maceta, que representaremos con una celda: 
 
