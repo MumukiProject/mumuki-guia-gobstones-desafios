@@ -1,0 +1,1 @@
+Recorda que para cuidar cada maceta debes eliminar las dos bolitas rojas en caso de ser necesario.
